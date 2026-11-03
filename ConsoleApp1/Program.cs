@@ -1,1 +1,12 @@
-﻿Console.WriteLine("Hello, World!");
+﻿Console.Clear();
+Console.Write("tol: ");
+var namber1=Convert.ToInt32(Console.ReadLine());
+Console.Write("arz: ");
+var namber2=Convert.ToInt32(Console.ReadLine());
+Console.Write("msahat= ");
+Console.WriteLine(namber1*namber2);
+Console.Write("vaysa ta mohit hm bedam\n");
+Console.Write("mohit: ");
+var x=namber1+namber2;
+var e=x*2;
+Console.Write(e);
