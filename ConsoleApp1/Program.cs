@@ -59,7 +59,7 @@ var namber3=Convert.ToInt32(Console.ReadLine());
 Console.Write("miangin: ");
 var x=namber1+namber2+namber3;
 Console.Write(x/3);
-
+//tamrin barad behradmehr in 3 tamrin dar One Project ast
 
 
 
